@@ -4,6 +4,9 @@
 
 Previously, you built an app that displays the episodes of a single TV show. This time, you'll work on React TV: a web streaming platform that allows users to browse through the episodes of a variety of different shows.
 
+A [live demo of the finished project](https://fsa-react-tv.netlify.app/) is available as
+reference.
+
 ## Getting Started
 
 Rather than starting from scratch, this time you'll be working with an existing codebase. The `<EpisodeList>` and `<EpisodeDetails>` components are already built for you in the `src/episodes` folder. They have been refactored to take props, but are otherwise identical to the previous workshop.
